@@ -5,5 +5,8 @@ The Linear regression, ridge, lasso, and elastic net models were fitted, and fur
 
 Python, HTML, CSS , JavaScript , Flask
 
-https://user-images.githubusercontent.com/96905837/168758976-75620f6a-824d-443b-9dde-34c6c0b942ec.mp4
+
+https://user-images.githubusercontent.com/96905837/168759374-638d7f18-1064-41db-a255-6b0e2b6f2fa3.mp4
+
+
 
