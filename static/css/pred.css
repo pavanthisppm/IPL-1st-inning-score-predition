@@ -1,0 +1,59 @@
+        
+    .header {
+        font-family: 'Josefin Sans', sans-serif;
+        text-shadow: 0 5px 15px black;
+        margin-top: 20px;
+    }
+    
+    .ml {
+        font-family: 'Lobster', cursive;
+        text-shadow: 0 5px 15px black;
+    }
+    
+    .card {
+        background: rgba(10, 10, 10, 0.6);
+        margin-top: 20px!important;
+        font-family: 'Oxygen', sans-serif;
+        border-radius: 15px;
+        box-shadow: 0 7px 25px black;
+        color: white;
+    }
+    
+    .footer {
+        background: rgba(10, 10, 10, 0.9);
+    }
+    
+    .modal-content {
+        color: black;
+        border-radius: 20px;
+    }
+    
+    .footer {
+        position: relative;
+        margin-top: 20px!important;
+        margin-bottom: 20px!important;
+    }
+    
+    .text-coffee {
+        color: #BB5400;
+    }
+    
+    .links a {
+        color: white!important
+    }
+    
+    .link-button {
+        padding: 25px;
+        border-radius: 50%;
+        font-size: 40px;
+    }
+    
+    .badge {
+        color: white;
+    }
+    
+    input,
+    select {
+        width: 200px;
+        color: black;    
+    }

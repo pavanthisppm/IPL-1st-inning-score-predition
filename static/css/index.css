@@ -1,0 +1,186 @@
+ 
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+   font-family: sans-serif; 
+}
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar
+{
+    background-image: linear-gradient(to right, #3283a8, #180b59);
+    padding: 0 !important;
+}
+
+.navbar-brand
+{
+    height: 90px;
+    padding-left: 20px;
+}
+
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+
+.navbar-nav a
+{
+    color: #fff !important;
+    font-size: large;
+    font-weight: 600;
+}
+
+.fa-bars
+{
+    color: #fff;
+    font-size: 30px !important;
+}
+
+
+/*---------------------banner_section---------------------------*/
+#banner
+{
+    background-image: linear-gradient(to right, #3283a8, #180b59);
+    color: #fff;
+    padding-top: 5%;
+}
+
+.head-section
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.camera
+{
+    width: 35px;
+    margin: 20px;
+}
+
+#banner a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.img-fluid
+{
+    width: 500px;
+    height: 400px;
+}
+.bottom-img
+{
+    width: 100%;
+}
+
+.title::before
+{
+content: '';
+background: #edd309;
+height: 5px;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+transform: translateY(60px);
+}
+
+.title::after
+{
+content: '';
+display: block;
+transform: translateY(60px);
+margin-bottom: 8%;
+}
+
+/*---------------------teams--------------------------------*/
+.logo a:hover img
+{
+    transform: translateY(-10px);
+}
+
+.logo img
+{
+    height: 250px;
+    width: 100%;
+    transition: 0.5s;
+}
+
+/*----------------------about-us section---------------------*/>
+
+#about-us
+{
+    background:  #fff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.about-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+
+.about-us ul li
+{
+    margin: 10px 0;
+}
+
+.about-us ul
+{
+    margin-left: 20px;
+}
+
+.social-icons img
+{
+    width: 60px;
+    transition: 0.5s;
+}
+
+.social-icons a:hover img
+{
+    transform: translateY(-10px);
+}
+
+/*-------------------------------footer section-----------------------------*/
+
+#footer
+{
+    background-image: linear-gradient(to right, #3283a8, #180b59);
+    color: #fff;
+}
+
+.footer-img
+{
+    width: 100%;
+}
+
+.footer-box
+{
+    padding: 20px;
+}
+
+hr
+{
+    background-color: #fff;
+}
+
+.copyright
+{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
